@@ -1,12 +1,5 @@
 # nodejs-mongodb-user-registration
 
-Programmer Blog: http://programmerblog.net
-
-- Source code for article on how to create a user registration form using nodejs and mongodb
-
-- You can read detailed tutorial on our blog: https://programmerblog.net/nodejs-user-registration-tutorial/
-
-
  - Install MongoDB
    First you need to install MongoDB on your system, Please visit MonogoDB site and download it.
  
@@ -56,8 +49,4 @@ Programmer Blog: http://programmerblog.net
   - To view runnign app
     Open browser and type the URL: http://localhost:3000
     
-
-For detailed tutorial, visit 
-
- http://programmerblog.net/nodejs-user-registration-tutorial/
  
